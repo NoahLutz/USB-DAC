@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=USB DAC Block Diagram.SchDoc
+Record=SheetSymbol|SourceDocument=USB DAC Block Diagram.SchDoc|Designator=Processor|SchDesignator=Processor|FileName=USB DAC Processor.SchDoc|SymbolType=Normal|RawFileName=USB DAC Processor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=USB DAC Block Diagram.SchDoc|Designator=Regulators|SchDesignator=Regulators|FileName=USB DAC Regulators.SchDoc|SymbolType=Normal|RawFileName=USB DAC Regulators.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
